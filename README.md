@@ -20,6 +20,8 @@ This repository hosts the Pytorch codes for paper [On the Attractive and Repulsi
 - [numpy 1.26.3](https://numpy.org/)
 - [matplotlib 3.8.2](https://matplotlib.org/)
 
+## Run
+- Execute `python gsne.py` in a terminal.
 
 ##  
 An example of MNIST with $\alpha=-0.5$, $\beta=3.0$, $\eta=0.1$:
