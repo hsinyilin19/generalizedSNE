@@ -8,7 +8,7 @@ This repository hosts the Pytorch codes for paper [On the Attractive and Repulsi
 
 
 ## Datasets
-###  - [MNIST](http://yann.lecun.com/exdb/mnist/) (default, uploaded)
+###  - [MNIST](http://yann.lecun.com/exdb/mnist/) ([default](https://github.com/hsinyilin19/generalizedSNE/blob/main/mnist.mat))
 ###  - [Coil20](https://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php) 
 ###  - [Olivetti faces](https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html) 
 
@@ -19,3 +19,9 @@ This repository hosts the Pytorch codes for paper [On the Attractive and Repulsi
 - [scipy 1.12.0](https://scipy.org/)
 - [numpy 1.26.3](https://numpy.org/)
 - [matplotlib 3.8.2](https://matplotlib.org/)
+
+
+##  
+An example of MNIST with $\alpha=-0.5$, $\beta=3.0$, $\eta=0.1$:
+<img src="./mnist_example.png" width="650">
+
